@@ -1,0 +1,8 @@
+Socket.io --> library that enableslo-latency,didirectional and event based communication btwn client and server.    
+ws-WebSocket,TCP -Transmission Control Protocol
+
+Express static is a built-in middleware function in Express
+syntax express.static(root,[options]) ie;
+app.use("/static",express.static('public'))
+cors-Cross Origin Resource Sharing to handle errors while using socket.io
+&#9658; html entity for send symbol
